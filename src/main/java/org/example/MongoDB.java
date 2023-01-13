@@ -1,10 +1,6 @@
 package org.example;
-import static com.mongodb.client.model.Filters.eq;
-import static javax.management.Query.lt;
 
 import com.mongodb.client.*;
-import com.mongodb.client.model.Projections;
-import com.mongodb.client.model.Sorts;
 import org.bson.Document;
 
 import org.bson.conversions.Bson;
